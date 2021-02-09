@@ -19,6 +19,8 @@ function generatePassword() {
   if (length < 8 || length > 128) {
     alert("Invalid choice. Password must be between 8 and 128");
     location.reload()
+
+  
   } else {   // Variables and conditional statements that log User choice and choose the criteria that apply to Generated password.
     var includeUpper = confirm("Would you like to include uppercase letters?");
     var includeLower = confirm("Would you like to include lower case letters?");
