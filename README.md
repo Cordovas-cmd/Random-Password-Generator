@@ -19,4 +19,4 @@ A link to the deployed page is posted here:
 https://cordovas-cmd.github.io/Random-Password-Generator/ 
 
 
-
+![Alt text](https://github.com/Cordovas-cmd/Random-Password-Generator/blob/main/assets/fireshot.png)
